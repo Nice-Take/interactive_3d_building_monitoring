@@ -14,3 +14,4 @@ when the spaces are unoccupied.
 
 # Interactive 3D UI
 ![Interactive UI](https://github.com/Nice-Take/sentient_project/blob/master/images/graphing_implemented.png)
+The square cyan colored highlights around a room indicate that the room is occupied.
