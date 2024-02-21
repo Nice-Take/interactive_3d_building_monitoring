@@ -7,11 +7,16 @@ physical accessibility for maintenance staff, and optimize indoor
 temperatures for occupants, potentially reducing energy consumption 
 by up to 20% through predictive modeling of space utilization.
 
-The basis for these energy savings lies in the premise that 
-workspace usage patterns are predictable enough for a machine 
+The theory behind the energy savings lies in the premise that 
+workspace usage patterns are perfectly suited for a machine 
 learning (ML) model. By forecasting the periods of use, climate 
 control systems can be adjusted to conserve energy during times 
 when the spaces are unoccupied.
+
+## Quick Overview Video
+![Overview Video](https://nicetake.com/tl_images/thumb.png)](https://vimeo.com/915371056/84cb0c916b?share=copy "Video Title")
+*A couple of the basic elements of the project.*
+
 
 ## Interactive 3D UI
 
