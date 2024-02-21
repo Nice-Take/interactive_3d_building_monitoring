@@ -14,7 +14,7 @@ control systems can be adjusted to conserve energy during times
 when the spaces are unoccupied.
 
 ## Quick Overview Video
-![Overview Video](https://nicetake.com/tl_images/thumb.png)](https://vimeo.com/915371056/84cb0c916b?share=copy "Video Title")
+![[Overview Video](https://nicetake.com/tl_images/thumb.png)](https://vimeo.com/915371056/84cb0c916b?share=copy "Video Title")
 *A couple of the basic elements of the project.*
 
 
