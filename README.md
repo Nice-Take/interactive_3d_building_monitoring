@@ -13,6 +13,8 @@ learning (ML) model. By forecasting the periods of use, climate
 control systems can be adjusted to conserve energy during times 
 when the spaces are unoccupied.
 
+*If you would like a copy of the .exe to run please contact me*
+
 ## Quick Overview Video
 [![Overview Video](https://nicetake.com/tl_images/thumb.png)](https://vimeo.com/915371056/84cb0c916b?share=copy "Video Title")
 *A couple of the basic elements of the project.*
